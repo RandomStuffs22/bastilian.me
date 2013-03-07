@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://bastilian.github.com/bastilian/blog/2012/11/24/my-albums-of-the-year-2012/
+        </loc>
+        <lastmod>2013-03-07T23:08:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bastilian.github.com/bastilian/about/</loc>
+        <lastmod>2013-03-07T23:08:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bastilian.github.com/bastilian/blog/archives/</loc>
+        <lastmod>2013-03-07T23:08:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bastilian.github.com/bastilian/</loc>
+        <lastmod>2013-03-07T23:08:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bastilian.github.com/bastilian/robots.txt</loc>
+        <lastmod>2013-03-07T23:08:01+01:00</lastmod>
+    </url>
+</urlset>
