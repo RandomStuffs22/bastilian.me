@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technology | Sebastian Gräßl]]></title>
+  <link href="http://bastilian.github.com/bastilian/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://bastilian.github.com/bastilian/"/>
+  <updated>2013-03-24T18:20:06+01:00</updated>
+  <id>http://bastilian.github.com/bastilian/</id>
+  <author>
+    <name><![CDATA[Sebastian Gräßl]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fremdschämen]]></title>
+    <link href="http://bastilian.github.com/bastilian/blog/2013/03/24/fremdschamen/"/>
+    <updated>2013-03-24T16:13:00+01:00</updated>
+    <id>http://bastilian.github.com/bastilian/blog/2013/03/24/fremdschamen</id>
+    <content type="html"><![CDATA[<p><img src="/images/posts/picard.jpg" alt="" /> In 2010 a new word in German has been crowned "Word of the Year 2010". It means to feel ashamed on someone elses behalf and this is what I feel when I read or hear about how some male colleagues in my industry behave towards women. And i have the feeling these reports are getting more and more. Be it caused by more women in tech or by more women taking a stand. I welcome both and do my best I can to support them.</p>
+
+<p>The mindset that these guys advocate, which is basically that women are not capable of being good in technology, is basically bullshit. There are plenty of colleagues out there who are female and without them we would not have decent <a href="www.molly.com/">Web Standards</a>, <a href="leahculver.com">OAuth</a>, <a href="http://en.wikipedia.org/wiki/Ada_Lovelace">programming in general</a> and much more. I admire them, the same way I admire some men, for what they contribute(d) to the field.</p>
+
+<p>To assume that men are better in technology, because there are more contributions out there from men is wrong. It is a fact that there are less women in our field, therefore more contributions are of male origin, which of course does not in any way mean they are more or less valuable.</p>
+
+<p>I crave for equality in technology and basically in everything I am involved with, therefore: I want more women in tech!</p>
+
+<p>I do my part by helping at <a href="http://railsgirls.com">Rails Girls</a> events and other workshops to get people started with programming and there are a bunch of guys, good guys, who give their support as well. If you are a woman who is interested in programming i highly encourage you to come to one of these events and see for your self that every male there is in no way to be associated with disrespecting douche-bags mentioned in this post at the top.</p>
+]]></content>
+  </entry>
+  
+</feed>
