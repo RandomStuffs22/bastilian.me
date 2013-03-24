@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: music | Sebastian Gräßl]]></title>
-  <link href="http://bastilian.github.com/bastilian/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://bastilian.github.com/bastilian/"/>
-  <updated>2013-03-24T18:20:06+01:00</updated>
-  <id>http://bastilian.github.com/bastilian/</id>
+  <link href="http://bastilian.me/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://bastilian.me/"/>
+  <updated>2013-03-24T18:31:40+01:00</updated>
+  <id>http://bastilian.me/</id>
   <author>
     <name><![CDATA[Sebastian Gräßl]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My albums of the year 2012]]></title>
-    <link href="http://bastilian.github.com/bastilian/blog/2012/11/24/my-albums-of-the-year-2012/"/>
+    <link href="http://bastilian.me/blog/2012/11/24/my-albums-of-the-year-2012/"/>
     <updated>2012-11-24T19:06:00+01:00</updated>
-    <id>http://bastilian.github.com/bastilian/blog/2012/11/24/my-albums-of-the-year-2012</id>
+    <id>http://bastilian.me/blog/2012/11/24/my-albums-of-the-year-2012</id>
     <content type="html"><![CDATA[<p>Dicovering new music, listening to the latest album of my favorite artists, seeing them live. All that is a big part of my life, therefore i decided to show you my favorite albums of this past year. Of course there are much more albums I listened to, but these are the ones I still listen to.</p>
 
 <h2>Mumford &amp; Sons - Babel</h2>

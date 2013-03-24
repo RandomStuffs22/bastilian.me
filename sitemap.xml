@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://bastilian.github.com/bastilian/blog/2012/11/24/my-albums-of-the-year-2012/
-        </loc>
+        <loc>http://bastilian.me/blog/2012/11/24/my-albums-of-the-year-2012/</loc>
         <lastmod>2013-03-07T23:08:01+01:00</lastmod>
     </url>
     <url>
-        <loc>http://bastilian.github.com/bastilian/blog/2013/03/24/fremdschamen/</loc>
+        <loc>http://bastilian.me/blog/2013/03/24/fremdschamen/</loc>
         <lastmod>2013-03-24T18:20:05+01:00</lastmod>
     </url>
     <url>
-        <loc>http://bastilian.github.com/bastilian/about/</loc>
+        <loc>http://bastilian.me/about/</loc>
         <lastmod>2013-03-07T23:08:01+01:00</lastmod>
     </url>
     <url>
-        <loc>http://bastilian.github.com/bastilian/blog/archives/</loc>
+        <loc>http://bastilian.me/blog/archives/</loc>
         <lastmod>2013-03-24T18:20:05+01:00</lastmod>
     </url>
     <url>
-        <loc>http://bastilian.github.com/bastilian/</loc>
+        <loc>http://bastilian.me/</loc>
         <lastmod>2013-03-24T18:20:05+01:00</lastmod>
     </url>
     <url>
-        <loc>http://bastilian.github.com/bastilian/robots.txt</loc>
+        <loc>http://bastilian.me/robots.txt</loc>
         <lastmod>2013-03-07T23:08:01+01:00</lastmod>
     </url>
 </urlset>

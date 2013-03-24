@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bastilian.github.com/bastilian/sitemap.xml 
+Sitemap: http://bastilian.me/sitemap.xml 
