@@ -3,7 +3,7 @@ layout: post
 title: "Fremdschämen"
 date: 2013-03-24 16:13
 comments: true
-categories: technology women railsgirls
+categories: railsgirls
 ---
 
 ![](/images/posts/picard.jpg) In 2010 a new word in German has been crowned "Word of the Year 2010". It means to feel ashamed on someone elses behalf and this is what I feel when I read or hear about how some male colleagues in my industry behave towards women. And i have the feeling these reports are getting more and more. Be it caused by more women in tech or by more women taking a stand. I welcome both and do my best I can to support them.

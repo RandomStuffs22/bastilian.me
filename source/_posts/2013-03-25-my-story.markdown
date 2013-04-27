@@ -3,7 +3,7 @@ layout: post
 title: "My Story"
 date: 2013-03-25 9:30
 comments: true
-categories: programming college school job developer
+categories: programming
 ---
 
 I'm a developer and I think I do a good job. I always give the best I can and strive for perfection where I can and constantly research and try to learn how to accomplish that. Information is what I am addicted to, specifically the kind that might help me move forward in my field. I do this now professionally for more than 7 years. Let me tell you about the, sometimes hard, way I took.
